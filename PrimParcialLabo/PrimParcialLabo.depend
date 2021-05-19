@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1621427568 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+
+1621426239 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\menu.h
+
+1621433727 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"bicicleta.h"
+	"servicio.h"
+	"trabajo.h"
+
+1621433788 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"utn.h"
+
+1621432745 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1621431009 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"color.h"
+
+1621429936 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\color.h
+
+1621427080 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\fecha.c
+	"fecha.h"
+
+1621426743 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\fecha.h
+
+1621429867 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\tipo.h
+
+1621433131 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\servicio.h
+
+1621433806 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\trabajo.h
+	"fecha.h"
+
+1621433294 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\servicio.c
+	"servicio.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1621428255 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"tipo.h"
+
+1621427037 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\trabajo.c
+	"trabajo.h"
+
+1621047057 c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\utn.h
+
+1621430088 source:c:\users\rocío\documents\utn-tup\1er cuatrimestre\programación i\gomez.rocio.pplabi\primparciallabo\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
